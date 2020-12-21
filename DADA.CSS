@@ -106,7 +106,10 @@ background-position: relative;
 
     margin: 1em;}
 
+    .nav{
+       color: black;
 
+}
     .nav ul{
         margin: 0;
         padding: 0;
